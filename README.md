@@ -2,7 +2,7 @@
 For download the standalone
 
 ``````````
-git clone https://github.com/paradisetester/standalone.git
+git clone https://github.com/paradisetester/material.git
 ``````````
 
 Demo Site
