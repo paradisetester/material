@@ -1,5 +1,6 @@
-# standalone
-For download the standalone
+# EXPLORE BY SELECTING ONE
+
+For download the EXPLORE BY SELECTING ONE
 
 ``````````
 git clone https://github.com/paradisetester/material.git
